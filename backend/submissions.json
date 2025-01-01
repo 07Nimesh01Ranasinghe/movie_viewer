@@ -1,0 +1,50 @@
+[
+    {
+        "firstName": "Nimesh",
+        "lastName": "Ranasinghe",
+        "email": "nimesh64kavindu@gmail.com",
+        "telephone": "7762563738",
+        "message": "Hai.",
+        "date": "2024-12-31 11:27:13"
+    },
+    {
+        "firstName": "Kamal",
+        "lastName": "Kamil",
+        "email": "kamal@example.com",
+        "telephone": "7762563738",
+        "message": "Hii",
+        "date": "2024-12-31 11:29:36"
+    },
+    {
+        "firstName": "Kasun",
+        "lastName": "Rajitha",
+        "email": "kasun@gmail.com",
+        "telephone": "747839384",
+        "message": "Hai",
+        "date": "2024-12-31 11:33:44"
+    },
+    {
+        "firstName": "Kasun",
+        "lastName": "Ranasinghe",
+        "email": "nimesh64kavindu@gmail.com",
+        "telephone": "7762563738",
+        "message": "hh",
+        "date": "2024-12-31 11:34:44"
+    },
+    {
+        "firstName": "Nimesh",
+        "lastName": "Ranasinghe",
+        "email": "nimesh64kavindu@gmail.com",
+        "telephone": "7762563738",
+        "message": "Haii",
+        "date": "2024-12-31 11:37:25"
+    },
+    {
+        "firstName": "Kasun",
+        "lastName": "Ranasinghe",
+        "email": "nimesh64kavindu@gmail.com",
+        "telephone": "7762563738",
+        "message": "hi",
+        "date": "2024-12-31 12:13:04"
+    }
+]
